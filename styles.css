@@ -2,13 +2,8 @@ body{
     box-sizing: border-box;
     padding: 0;
     margin: 0;
+    height: 100%;
 }
-
-nav{
-
-
-}
-
 a{
     text-decoration: none;
     padding: 0;
@@ -77,4 +72,12 @@ input[type=text]{
     font-size: 14px;
     border-radius: 4px;
     color: #5F6368;
+}
+
+
+footer{
+    display: flex;
+    align-items: flex-end;
+    margin-top: 50vh;
+
 }
