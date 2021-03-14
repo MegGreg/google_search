@@ -1,0 +1,28 @@
+nav{
+    background-color: #af4ca280;
+}
+
+a{
+    text-decoration: none;
+    padding: 0;
+    margin: 0;
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+}
+
+li{
+    list-style-type: none;
+}
+
+.navleft{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.navright{
+    display: flex;
+    justify-content: flex-end;
+}
