@@ -69,12 +69,12 @@ input[type=text]{
     width: 30vw;
     margin-top: 28px;
 }
-
-.go{
-    margin-top: 30px;
-}
-
-.search{
+.submit{
     background-color: #f4f4f4;
-    padding: 12px 15px;
+    padding: 10px 20px;
+    border: none;
+    margin: 30px 4px;
+    font-size: 14px;
+    border-radius: 4px;
+    color: #5F6368;
 }
